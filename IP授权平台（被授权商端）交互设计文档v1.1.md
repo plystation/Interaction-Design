@@ -234,4 +234,6 @@ IP交互平台小程序的每个页面交互线框图及页面细节说明如下
 
 ![image](https://raw.githubusercontent.com/plystation/Interaction-Design/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%9B%BE/ip%E6%8E%88%E6%9D%83%E5%B9%B3%E5%8F%B0%EF%BC%88%E8%A2%AB%E6%8E%88%E6%9D%83%E5%95%86%E7%AB%AF%EF%BC%89V1.1%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%B1%95%E7%A4%BA_7.png)
 
-![image](https://raw.githubusercontent.com/plystation/Interaction-Design/master/ip%E5%B9%B3%E5%8F%B0%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%B1%95%E7%A4%BA2_%E7%94%BB%E6%9D%BF8.png)
+![image](https://raw.githubusercontent.com/plystation/Interaction-Design/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%9B%BE/ip%E6%8E%88%E6%9D%83%E5%B9%B3%E5%8F%B0%EF%BC%88%E8%A2%AB%E6%8E%88%E6%9D%83%E5%95%86%E7%AB%AF%EF%BC%89V1.1%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%B1%95%E7%A4%BA_8.png)
+
+![image](https://raw.githubusercontent.com/plystation/Interaction-Design/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%9B%BE/ip%E6%8E%88%E6%9D%83%E5%B9%B3%E5%8F%B0%EF%BC%88%E8%A2%AB%E6%8E%88%E6%9D%83%E5%95%86%E7%AB%AF%EF%BC%89V1.1%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%B1%95%E7%A4%BA_9.png)
