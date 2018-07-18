@@ -75,6 +75,9 @@ IP授权平台的用户角色分为版权方和被授权商；通常情况下都
 ### 3.1 业务流程图
 ![image](https://raw.githubusercontent.com/plystation/Interaction-Design/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%9B%BE/%E7%BB%98%E5%9B%BE1.jpg)
 
+### 3.2 功能流程图
+![image](https://raw.githubusercontent.com/plystation/Interaction-Design/%E4%BA%A4%E4%BA%92%E5%8E%9F%E5%9E%8B%E5%9B%BE/%E5%8A%9F%E8%83%BD%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+
 ## 4、IP授权平台（被授权商端）--页面框架
 
 围绕上述的产品定位，IP授权平台（被授权商端）包括：“首页”、“消息”、“我的”三个主界面。
